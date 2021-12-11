@@ -1,0 +1,20 @@
+{
+  "name": "trivia-titans",
+  "version": "1.0.0",
+  "description": "Trivia game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-config-prettier": "^8.3.0",
+    "jest": "^27.4.4",
+    "prettier": "^2.4.1"
+  },
+  "dependencies": {
+    "prompt": "^1.2.0"
+  }
+}
