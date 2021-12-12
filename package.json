@@ -15,6 +15,11 @@
     "prettier": "^2.4.1"
   },
   "dependencies": {
-    "prompt": "^1.2.0"
+    "prompt": "^1.2.0",
+    "socket.io": "^4.4.0"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.5",
+    "utf-8-validate": "^5.0.7"
   }
 }
